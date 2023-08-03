@@ -41,7 +41,7 @@ Tools used:
 
 Repository: [Fits in Advance](https://github.com/fallennyx/Fits-in-Advance)
 
-Description: Using the weather data of the user-inputted city, our app uses DALL-E to create an image of a recommended outfit. Search results of the recommended outfit are displayed - in case a user is missing some items.
+Description: Using the weather data of the user-inputted city, our app uses DALL-E to create an image of a recommended outfit. Search results of similar outfits are provided as well. 
 
 Tools used:
 - CSS, HTML, and Javascript for the frontend
