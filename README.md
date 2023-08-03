@@ -40,7 +40,15 @@ Tools used:
 ## Fits in Advance
 
 Repository: [Fits in Advance](https://github.com/fallennyx/Fits-in-Advance)
+
 Description: Using the weather data of the user-inputted city, our app uses DALL-E to create an image of a recommended outfit. Search results of the recommended outfit are displayed - in case a user is missing some items.
+
+Tools used:
+- CSS, HTML, and Javascript for the frontend
+- Python and Flask for the backend
+- Dall-E, Weather Info, and Serp Shopping Api
+- SQLite Database
+
 
 ## Country Facts Generator
 
@@ -49,7 +57,7 @@ Repository: [Country Facts Generator](https://github.com/fallennyx/CountryInfo))
 Description: The Country Facts Generator is a user-friendly program designed to provide instant and reliable information about various countries. Users simply input the name of the country they are interested in, and the generator quickly retrieves the relevant facts. The generated information is organized and presented in a simple format, including details such as alternate spellings, region/continent, capital, currency, language, and timezone based on your current location. Our generator also prompts the user if they want to see the previous data stored in the database. If yes, it will print it; otherwise, it will stop and say "Have a nice day."
 
 Tools used:
-- PEP8 guidelines
 - SQL database
+- Python and Country Info Api
 
 Feel free to explore these repositories to learn more about these projects and their code. Your feedback and contributions are always welcome!
