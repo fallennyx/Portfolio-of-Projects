@@ -17,6 +17,7 @@ I'm proficient in a variety of languages and technologies, including:
 - HTML5
 - CSS
 - Flask
+- Java
 
 ## Description
 
