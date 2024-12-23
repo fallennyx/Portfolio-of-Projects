@@ -12,12 +12,11 @@ Hello! Welcome to my GitHub repository showcasing some of my projects.
 I'm proficient in a variety of languages and technologies, including:
 
 - Python
-- JavaScript
+- React
 - SQLite
-- HTML5
-- CSS
 - Flask
 - Java
+- PHP
 
 ## Description
 
@@ -25,17 +24,42 @@ This README serves as a guide to help you navigate through my GitHub profile and
 
 # My Top Projects
 
-## Car Finder
+## Wealth Wise
 
-Repository: [Car Finder](https://github.com/fallennyx/Car-Finder)
+Repository: [Wealth Wise](https://github.com/cse442-at-ub/fa24-semesterproject-the-academic-weapons)
 
-Description: Our car finder site takes user input to display car information based on the most essential characteristics they care about, such as make and model. Car data is inserted into our database where users will be able to select a specific car and access information including the year, model, and make.
+Description: Wealth Wise is a financial assistant designed to help users analyze and manage their spending. By inputting financial data, users can gain insights into where their money is going and set goals to improve their financial health. Key features include transaction categorization, spending breakdowns, and projections for achieving savings goals. The app includes a user-friendly dashboard with interactive visualizations like pie charts and monthly spending comparisons.
+
+Features:
+- Input transactions with details such as name, amount, category, and date.
+- View a categorized breakdown of expenses via pie charts.
+- Monthly spending comparisons and trend analysis.
+- Highlighted insights, such as the highest spending category.
+- User settings for managing profiles, including password, username, and email changes.
+- Support for recurring transactions and quick input features for convenience.
 
 Tools used:
-- Flask for the frontend
-- Python for the backend
-- Car Data API
-- SQLite Database
+- React
+- PHP
+
+
+## Twitter Opposite Bot
+
+Repository: [TwitterOppositeBot](https://github.com/fallennyx/TwitterOppositeBot))
+
+Description: The Twitter Opposite Bot is an automated parody-generating Twitter bot that fetches tweets from influencers and posts humorous opposites or parodies. Using advanced natural language processing (NLP), the bot ensures entertaining and creative content generation. It fetches tweets, processes them for parody transformation, and posts the generated content back on Twitter automatically.
+
+Features:
+- Fetch tweets from influencers using the Twitter API.
+- Generate creative and humorous parodies with NLP capabilities powered by Google Gemini AI API.
+- Post the transformed content back to Twitter in real time.
+- Seamless automation of the entire process using Tweepy for API integration.
+
+Tools Used:
+- Google Gemini AI API for generating parody content
+- Tweepy and Twitter API 
+- Python for backend automation
+
 
 ## Fits in Advance
 
@@ -49,15 +73,3 @@ Tools used:
 - Dall-E, Weather Info, and Serp Shopping Api
 - SQLite Database
 
-
-## Country Facts Generator
-
-Repository: [Country Facts Generator](https://github.com/fallennyx/CountryInfo))
-
-Description: The Country Facts Generator is a user-friendly program designed to provide instant and reliable information about various countries. Users simply input the name of the country they are interested in, and the generator quickly retrieves the relevant facts. The generated information is organized and presented in a simple format, including details such as alternate spellings, region/continent, capital, currency, language, and timezone based on your current location. Our generator also prompts the user if they want to see the previous data stored in the database. If yes, it will print it; otherwise, it will stop and say "Have a nice day."
-
-Tools used:
-- SQL database
-- Python and Country Info Api
-
-Feel free to explore these repositories to learn more about these projects and their code. Your feedback and contributions are always welcome!
