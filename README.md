@@ -1,12 +1,13 @@
 # My Portfolio of Projects
 
 Hello! Welcome to my GitHub repository showcasing some of my projects. 
+I am a senior CS major currently in school. Besides that, I am also a member of the ANG. 
 
 ## Contact Details
 
 - **GitHub:** (https://github.com/fallennyx)
 - **LinkedIn:** (https://www.linkedin.com/in/emmanuelakanmu/)
-- **Email:** eakanmu@buffalo.edu
+- **Email:**  EDU: eakanmu@buffalo.edu Personal: 1eakanmu@gmail.com
 ## Languages & Skills
 
 I'm proficient in a variety of languages and technologies, including:
@@ -18,11 +19,35 @@ I'm proficient in a variety of languages and technologies, including:
 - Java
 - PHP
 
-## Description
-
-This README serves as a guide to help you navigate through my GitHub profile and discover the projects that best showcase my skills.
-
 # My Top Projects
+
+## ELO
+
+Repository: [ELO by Team Kinetic](https://github.com/CSE370HCI/kinetic)
+
+Description: Elo is a comprehensive social networking platform that combines dating app functionality with social media features. It enables users to connect, match with others, communicate, and share content within a community-focused environment.
+
+Features:
+- User Authentication - Login, registration, and password reset functionality
+- Profile Management - View and edit user profiles
+- Matching System - Swipe-based matching interface similar to dating apps
+- Messaging - Real-time chat functionality with socket.io integration
+- Social Connections - Friends, followers, and following management
+- Content Sharing - Post creation and community content feeds
+- Groups - Community group creation and management
+- Filtering - Content and user filtering capabilities
+- Match Management - View and manage your matches
+
+Tools used:
+- React.js 
+- Socket.io
+- REST API(backend communication)
+- Progressive Web App (PWA) - Service worker implementation
+- Component-based Architecture - Modular UI development
+
+Academic Context
+This project was developed as part of the curriculum for CSE370 at the University at Buffalo, providing hands-on experience with modern web development practices while implementing human-computer interaction design principles in a practical application.
+
 
 ## Wealth Wise
 
@@ -65,7 +90,7 @@ Tools Used:
 
 Repository: [Fits in Advance](https://github.com/fallennyx/Fits-in-Advance)
 
-Description: Using the weather data of the user-inputted city, our app uses DALL-E to create an image of a recommended outfit. Search results of similar outfits are provided as well. 
+Description: Using the weather data of the user-inputted city, our app uses DALL-E to create an image of a recommended outfit. Search results of similar outfits are provided as well. As of APR 2025, will be updating and improving this application due to advancments in AI image generation.
 
 Tools used:
 - CSS, HTML, and Javascript for the frontend
