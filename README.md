@@ -50,7 +50,7 @@ Tools used:
 - Expo
 
 Academic Context
-This project was developed as part of the curriculum for CSE370 at the University at Buffalo, providing hands-on experience with modern web development practices while implementing human-computer interaction design principles in a practical application. Due to this, Repository is private.
+This project was developed as part of the curriculum for CSE302 at the University at Buffalo, providing hands-on experience with modern web development practices while implementing human-computer interaction design principles in a practical application. Due to this, Repository is private.
 
 
 
