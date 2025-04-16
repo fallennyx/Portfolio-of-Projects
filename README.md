@@ -20,7 +20,6 @@ I'm proficient in a variety of languages and technologies, including:
 - PHP
 
 # My Top Projects
-https://github.com/Service-central
 
 ## Find a Mechanic
 
