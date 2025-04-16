@@ -20,6 +20,43 @@ I'm proficient in a variety of languages and technologies, including:
 - PHP
 
 # My Top Projects
+https://github.com/Service-central
+
+## Find a Mechanic
+
+Repository(Private): [Find a Mechnaic](https://github.com/CSE370HCI/kinetic)
+
+Description: Find a mechanic of FAM for short is a service based webpage and app with the goal of becoming a doordash and/or instacart of trades and services. As of right now we’re focusing on the mechanics trade due to it being the largest and having year round work.
+
+This software has 3 core portions. A marketplace webpage for a shop to administer and delegate time, work, and resources internal to customer issues and communicate and do the entire workflow process with customers. The other two portions are an app that has two uses. 1st use is for a worker of the shop to have work delegated to them from the shop webpage that allows them to update on progress of a vehicle and a user facing app that allows them to find a shop of their desired niche by reviews. The user can interact with the shop from start to finish from the app.
+
+As of right now FAM is nearly finished as its most basic core tenets. It still needs more features and some things built into it listed below.
+
+Changes/builds depending on customer feedback
+UI improvements (consider using UI library)
+Build/expand database (better reporting and analytics)
+Add to the calendar
+bug/glitch fixing
+Securing and consolidation of the code
+potentially adding payment system
+This is what we’re planning on for the foreseeable future as we attempt to start demoing with various shops and students to test out. As more issues trickle in we believe those will help build a better process.
+
+
+
+Tools used:
+- AWS
+- React Native
+- PHP
+- MySQL,CSS3
+- Expo
+
+Academic Context
+This project was developed as part of the curriculum for CSE370 at the University at Buffalo, providing hands-on experience with modern web development practices while implementing human-computer interaction design principles in a practical application. Due to this, Repository is private.
+
+
+
+
+
 
 ## ELO
 
@@ -46,7 +83,7 @@ Tools used:
 - Component-based Architecture - Modular UI development
 
 Academic Context
-This project was developed as part of the curriculum for CSE370 at the University at Buffalo, providing hands-on experience with modern web development practices while implementing human-computer interaction design principles in a practical application.
+This project was developed as part of the curriculum for CSE370 at the University at Buffalo, providing hands-on experience with modern web development practices while implementing human-computer interaction design principles in a practical application. Due to this, Repository is private.
 
 
 ## Wealth Wise
