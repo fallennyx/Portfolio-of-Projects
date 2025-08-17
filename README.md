@@ -12,14 +12,59 @@ I am a senior CS major currently in school. Besides that, I am also a member of 
 
 I'm proficient in a variety of languages and technologies, including:
 
-- Python
-- React
-- SQLite
-- Flask
-- Java
-- PHP
+Vibe coding
+Core stack: JavaScript, Python, C/C++, SQL • React.js, Next.js • Node.js, Flask, PHP • iOS/Swift
+
+AI/ML: NLP, Machine Learning, Data Science • PyTorch, NumPy
+
+Data & pipelines: Airflow • MySQL, MongoDB • Data Analysis, SQL
+
+Cloud & DevOps: AWS, Google Cloud Platform, Docker
+
+Design & product: UI/UX Design, Figma
+
+Systems: Verilog, VHDL
+
+Practices: Data Structures & Algorithms, Agile
+
 
 # My Top Projects
+
+## PropJigs
+
+Repository: [PropJigs]([https://github.com/CSE370HCI/kinetic](https://github.com/fallennyx/PropJigs))
+
+Description: PropJigs is an open, AI-first wholesale real-estate marketplace that connects wholesalers and cash buyers through standardized AI one-page briefs, a personalized Buy-Box feed, and commitment-gated details. We make underwriting fast, reduce low-quality noise, and surface deals that actually convert.
+
+Problem
+* Wholesalers are scattered across many paywalled or fragmented services; buyers waste time digging through unstructured listings.
+* Existing marketplaces either gate supply behind high fees or act as principals (conflict of interest).
+* New wholesalers lack an easy, low-cost place to list and reach buyers. The market is seeing a surge of new entrants who need a neutral, fast channel.
+Solution / Product
+* AI Briefs: canonical, machine-readable one-page summaries (ARV, repair estimate, comps, net profit, confidence).
+* Open & Neutral Marketplace: free to list and browse → faster supply growth and network effects.
+* Buy-Box Feed & Triage Mode: personalized, urgency-weighted feed that replaces search.
+* Commitment Button + Reputation: non-monetary holds reveal full address and create accountability — penalties for ghosting.
+* Partner-Ready API / White-Label: enterprise feed + webhooks for investor groups and title partners.
+
+Tech Stack:
+Frontend:
+Framework: React with TypeScript
+Routing: Wouter
+State Management: TanStack React Query
+UI Framework: Tailwind CSS with shadcn/ui component library
+Build Tool: Vite
+Backend:
+
+Runtime: Node.js with Express.js
+API Design: RESTful endpoints
+Database: PostgreSQL using Drizzle ORM
+Session Management: PostgreSQL storage with express-session
+Authentication:
+
+Method: Replit Auth with OpenID Connect integration
+
+
 
 ## Find a Mechanic
 
