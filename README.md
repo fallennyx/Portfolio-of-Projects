@@ -87,7 +87,7 @@ FatSecret API for recipes + nutrition
 Tracks shown recipes to prevent repeats
 Mobile-optimized recipe browsing
 
-##BetterPerplexity
+## BetterPerplexity
 Repo: https://github.com/fallennyx/BetterPerplexity
 
 Description: Betterperplexity is a React-based search app with a chat-like interface for internet queries using the Tavily API. It performs parallel searches (general + news), generates AI-powered answers with source citations, and supports exporting research as PNG cards or ZIP bundles. The project is incomplete due to API credit and inference costs, but the concept and architecture are in place.
@@ -116,7 +116,7 @@ Export results as PNG or ZIP bundles
 Modern, accessible design system
 
 
-##Folder Chat
+## Folder Chat
 Repo: https://github.com/fallennyx/FolderChat
 Description: FolderChat is a React web app that connects Google Drive folders to an AI-powered chat system. Users sign in with Google, link a Drive folder, and can query their documents with AI responses and citations. It uses LlamaCloud for document indexing/processing and a Google service account for Drive access. Not completed due to Google OAuth app verification requirements.
 Tech Stack:
