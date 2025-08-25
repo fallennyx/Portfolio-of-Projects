@@ -12,7 +12,6 @@ I am a senior CS major currently in school. Besides that, I am also a member of 
 
 I'm proficient in a variety of languages and technologies, including:
 
-Vibe coding
 Core stack: JavaScript, Python, C/C++, SQL • React.js, Next.js • Node.js, Flask, PHP • iOS/Swift
 
 AI/ML: NLP, Machine Learning, Data Science • PyTorch, NumPy
@@ -64,7 +63,28 @@ Authentication:
 
 Method: Replit Auth with OpenID Connect integration
 
+## PIC2FOOD 
+REPO: https://github.com/fallennyx/Pic2Food/
+Description: PIC2FOOD is a mobile-first recipe discovery application that uses AI-powered image recognition to identify ingredients from photos and suggest relevant recipes. The app allows users to take pictures of ingredients, automatically detect what they have available, and receive personalized recipe recommendations through integration with the FatSecret API.
 
+Tech Stack:
+Frontend
+React + TypeScript with Vite
+Wouter for routing
+Shadcn/ui + Tailwind CSS for UI
+TanStack Query for state/caching
+PWA, mobile-first design
+
+Backend:
+Node.js + Express (TypeScript, ES modules)
+REST API: image recognition, recipe search/details
+Vite middleware for dev HMR
+
+Features:
+Camera → ingredient recognition
+FatSecret API for recipes + nutrition
+Tracks shown recipes to prevent repeats
+Mobile-optimized recipe browsing
 
 ## Find a Mechanic
 
