@@ -2,7 +2,7 @@
 
 Hello! Welcome to my GitHub repository showcasing some of my projects. 
 I am a graduating CS major. Besides that, I am also a member of the ANG. 
-This is here to prove I can build things. With scale and capital, I can do amazing things.
+This is here to prove I can build things. With scale and capital, Id be a billionare with my ideas.
 
 ## Contact Details
 
